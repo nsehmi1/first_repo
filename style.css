@@ -1,12 +1,63 @@
 header {
 padding:10px 10px 10px 10px; 
 text-align: center;
-font-size: 5em;
+font-size: 6em;
+padding-top:1em;
+background-size: cover;
+background-image: url(http://mooxidesign.com/wp-content/uploads/2014/04/Free-Polygonal-Low-Poly-Background-2.png);
+background-attachment: fixed;
 }
 
 p {
 
-  color:black;
-  background-color: grey;
+  color:#000000;
+  background-color: white;
+  font-family: Arial;
+  line-height: 1em;
+  text-align: center;
+  margin: 1px;
+  letter-spacing: 4px;
 
 }
+
+
+h2 {
+  font-size: 2em;
+  color: white;
+  text-transform: lowercase;
+}
+
+h3 {
+  font-size: 0.5em;
+  text-transform: lowercase;
+   text-align: center;
+}
+
+h4 {
+  padding-top: 0.2em;
+  text-align: center;
+  font-size: 0.3em;
+  font-style: arial;
+  text-transform: lowercase;
+  }
+
+
+.cool
+{
+margin: 100px 150px 50px 150px;
+letter-spacing: 4px;
+}
+
+.cool2
+{
+margin: 0px ;
+}
+
+
+ul {
+  text-align: center;
+ text-align: lowercase;
+ font-size: 2em;
+}
+
+
